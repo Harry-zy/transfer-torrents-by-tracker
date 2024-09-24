@@ -64,4 +64,3 @@
 请输入种子源目录: /path/to/source/torrents
 请输入目标种子目录: /path/to/target/torrents
 请输入 passkey: your-passkey
->>>>>>> 4e57ec3 (transmission根据tracker转种工具)
